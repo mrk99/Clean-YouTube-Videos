@@ -3,7 +3,7 @@
 Link to copy the Google Sheet and Apps Script
 https://docs.google.com/spreadsheets/d/1Edfz7f4QZgP40hEkG_paZWUB3T-Gtp8hUgSohh5bOzM/copy
 
-1. Click on this link and click on “Make a Copy”
+1. Click on the link above and click on “Make a Copy”
 2. Wait for the spreadsheet to load completely and click refresh in your browser
 3. Click on the new menu item named “YouTube Tool”
 4. Click “Load Menu”
